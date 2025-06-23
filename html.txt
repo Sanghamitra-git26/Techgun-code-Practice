@@ -1,0 +1,103 @@
+HEAD :- Mostly in head ther we used t keep 5 tags (meta data , title , script ,description)
+        Head contents we are using for browser only and manipulate tha data
+META DATA - Data about data is called meta data
+TITLE - Whatever we are writting in the title 
+BODY :- Whatever we are writting in the body its visible to user
+DOCTYPE:- It shows which version html we are using
+
+
+
+ELEMENTS :-paragraph , link, img, video 
+<Tagname>content</Tagname>
+
+ATTRINUTES :-Any additional info about element is called attribute
+<Tagname attribute1 ="value1" attribute2 ="value2">content</Tagname>
+<p width ="5px">paragraph with attibute </p>
+<img src=""> 
+<img> is empty tag
+
+
+INDENTATION
+-----------
+It means arraning the codes to look professional
+Easily we can get which is who's child 
+Press alt+shift+f
+
+
+COMMENTS
+---------
+Comments we are using to follow the codes in futute what we have done and it helps other developers too
+It is of 2 types
+          1.Single Line Comments (//)
+          2.Multi Line Comments(*/--------*/)
+
+
+HEADINGS
+--------
+Headings are of 6 types (h1, h2,h3,h4,h5,h6)
+
+PARAGRAPH
+----------
+To write pragraphs we use <p></p> tags
+
+Pre
+---
+we use tag <pre> to get the spaces as we have written in paragraph in our IDE
+
+FORMATTING
+-----------
+em
+strong
+del
+i
+
+QUOTATION & CITATION
+--------------------
+quotation we are using for quotation only and for that we are using tag <q>
+CITE :- From where we are using the link 
+        Ex -cite ="www.google.com"
+
+LINKS
+-----
+Link we are using to connect one page into another page
+<a href ="http://www.googgle.com"  target="_blank" title="go to so n so page"></a>
+
+TABLE
+------------
+To show data in the form of rows and tables
+Nested-Table
+------------
+Table inside table we call it as nested table
+
+DIV AND SPAN
+---------------
+->DIV is block level element and span is inline element
+Block element always starts on a new line and takes off the full width available
+ex :- <aside> <article><address><table><section><hr><header><ul>
+->An inline element doesnt start on a new line and takes up as much width as required
+Ex:- <a><abbr><br><span><time><textarea>
+
+SEMANTIC TAGS
+-------------
+->Elements with meaning is called SEMANTIC TAGS
+->Semantic elements clearly describes it's meaning to both the browser and the developer
+   Ex :- <header><footer><section><table><thead><tbody>
+->But non-semantic tags tells nothing about tha content
+    Ex :- <div><span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
